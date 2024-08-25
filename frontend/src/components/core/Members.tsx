@@ -7,14 +7,14 @@ import Navbar from './Navbar';
 const teamMembers = [
   {
     name: 'David Muturi',
-    role: 'AI Engineer, Frontend',
+    role: 'AI Engineer, Full-stack',
     photo: '/images/David_Mutari.jpeg',
     email: 'muturidavid854@gmail.com',
     location: 'Nairobi, Nairobi County, Kenya'
   },
   {
     name: 'Derek Gomez',
-    role: 'AI Engineer, Backend',
+    role: 'AI Engineer, Full-stack',
     photo: '/images/Derek_Gomez.jpeg',
     email: 'dmatt.gomez@gmail.com',
     location: 'San Jose, California, United States'
